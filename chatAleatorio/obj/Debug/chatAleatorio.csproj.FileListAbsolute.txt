@@ -1,0 +1,6 @@
+C:\Users\lindolfo.silveira\Documents\SharpDevelop Projects\chatAleatorio\chatAleatorio\bin\Debug\chatAleatorio.exe.config
+C:\Users\lindolfo.silveira\Documents\SharpDevelop Projects\chatAleatorio\chatAleatorio\bin\Debug\chatAleatorio.exe
+C:\Users\lindolfo.silveira\Documents\SharpDevelop Projects\chatAleatorio\chatAleatorio\bin\Debug\chatAleatorio.pdb
+C:\Users\lindolfo.silveira\Documents\SharpDevelop Projects\chatAleatorio\chatAleatorio\obj\Debug\chatAleatorio.csprojResolveAssemblyReference.cache
+C:\Users\lindolfo.silveira\Documents\SharpDevelop Projects\chatAleatorio\chatAleatorio\obj\Debug\chatAleatorio.exe
+C:\Users\lindolfo.silveira\Documents\SharpDevelop Projects\chatAleatorio\chatAleatorio\obj\Debug\chatAleatorio.pdb
